@@ -1,4 +1,4 @@
-package org.acme.domain;
+package org.acme.timetablesplanner.domain;
 
 import java.util.List;
 
